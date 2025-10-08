@@ -1,13 +1,14 @@
 <script>
-  import breweries from "../../constants/breweries";
+  import BreweryItem from "../../components/brewery/BreweryItem.svelte";
+import breweries from "../../constants/breweries";
   import Title from "../../shared/Title.svelte";
 </script>
 <div class="flex flex-col gap-5">
     <Title main="Breweries" subtitle="From the most famous until the small ones"/>
-    <div>
+    <div class="grid grid-cols-3 gap-5">
         
         {#each breweries as brewery}
-            {brewery.name}
+           <BreweryItem {brewery} />
         {/each}
     </div>
 </div>
