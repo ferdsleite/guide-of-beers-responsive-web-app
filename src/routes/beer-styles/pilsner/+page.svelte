@@ -4,5 +4,4 @@
 </script>
 
 
-<BeerStyleContent beerStyle={beerStyles.find((s) => s.id === "ipa")} />
-    
+<BeerStyleContent beerStyle={beerStyles.find((s) => s.id === "pilsner")} />

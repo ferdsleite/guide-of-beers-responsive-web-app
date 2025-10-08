@@ -6,15 +6,15 @@
 <aside class="flex flex-col self-start gap-10 w-72 p-5 border border-zinc-800 rounded-md">
     <Menu title="Browse">
         <MenuItem href="/" text="Home"/>
-        <MenuItem href="/" text="Breweries"/>
+        <MenuItem href="/breweries" text="Breweries"/>
         <MenuItem href="/beer-styles" text="Beer Styles"/>
         <MenuItem href="/" text="Beers"/>
     </Menu>
-    <Menu title="Main Beer Styles">
+    <Menu title="Popular Beer Styles">
         <MenuItem href="/beer-styles/ipa" text="IPA"/>
-        <MenuItem href="/beer-styles" text="APA"/>
-        <MenuItem href="/beer-styles" text="Pilsen"/>
-        <MenuItem href="/beer-styles" text="Pilsen"/>
+        <MenuItem href="/beer-styles/pilsner" text="Pilsner"/>
+        <MenuItem href="/beer-styles/stout" text="Stout"/>
+        <MenuItem href="/beer-styles/weissbier" text="Weissbier"/>
         
     </Menu>
     <Menu title="Main Beers">
