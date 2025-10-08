@@ -9,7 +9,7 @@
     <Header />
     <div class="flex-1 flex mx-auto w-full max-w-7xl p-5">
 
-        <main class="flex-1">
+        <main class="flex-1 pr-4">
             <slot></slot>
         </main>
         <Sidebar />
