@@ -6,7 +6,7 @@ export function load(data) {
 
     for (let brewery of breweries) {
         if(brewery.id == breweryId) {
-            return {brewery}
+            return { brewery }
         }
     }
     error(404, "Brewery not found")

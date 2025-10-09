@@ -5,9 +5,9 @@ const breweries = [
   {
     id: "guinness",
     name: "Guinness Brewery",
-    description: "Founded in 1759 in Dublin, it's one of the world's most iconic breweries, known for Guinness Stout.",
+    description: "Founded in 1759 in Dublin, it's one of the world's most iconic breweries, known for Guinness Stout. The Guinness legacy runs much deeper than just creating delicious brews. Arthur Guinness felt it was important to give back to the city that hosts the brewery. This legacy of philanthropic tradition was in turn passed on from father to son for seven generations, and still lives on within Guinness today.",
     country: "Ireland",
-    image: "https://upload.wikimedia.org/wikipedia/commons/3/34/Guinness_Storehouse.jpg",
+    image: "https://images.squarespace-cdn.com/content/v1/5876279bbebafb82a7c81c00/1617043580504-VIPP3ZSKF8I7WMY3CRFK/DSCN5229.JPG",
     link: "https://www.guinness.com/en",
     beers: [
       {
@@ -15,7 +15,7 @@ const breweries = [
         name: "Guinness Draught",
         style: beerStyles.find((s) => s.id === "stout"),
         abv: "4.2%",
-        image: "https://m.media-amazon.com/images/I/61Dk2xGdVPL._SL1500_.jpg",
+        image: "https://shop.guinness-storehouse.com/cdn/shop/files/Guinness_Pint_Glass_and_Can_Gift_Set.jpg?v=1731694599&width=1214",
         link: "https://www.guinness.com/en/beers/guinness-draught",
       },
       {
@@ -23,7 +23,7 @@ const breweries = [
         name: "Guinness Extra Stout",
         style: beerStyles.find((s) => s.id === "stout"),
         abv: "5.6%",
-        image: "https://m.media-amazon.com/images/I/71g06rSXmoL._SL1500_.jpg",
+        image: "https://shop.guinness-storehouse.com/cdn/shop/files/Guinness_Pint_Glass_and_Can_Gift_Set.jpg?v=1731694599&width=1214",
         link: "https://www.guinness.com/en/beers/guinness-original",
       },
     ],
@@ -33,7 +33,7 @@ const breweries = [
     name: "BrewDog",
     description: "A modern Scottish brewery known for its bold and creative approach to craft beer.",
     country: "Scotland",
-    image: "https://upload.wikimedia.org/wikipedia/commons/a/af/BrewDog_Bar.jpg",
+    image: "https://brewdog.com/cdn/shop/files/Punk_Falling_-_Landing_Page_Promotion.png?v=1750894122&width=2048",
     link: "https://brewdog.com/",
     beers: [
       {
@@ -49,7 +49,7 @@ const breweries = [
         name: "Dead Pony Club",
         style: beerStyles.find((s) => s.id === "pale-ale"),
         abv: "3.8%",
-        image: "https://m.media-amazon.com/images/I/71iY6gI2nYL._SL1500_.jpg",
+        image: "https://brewdog.com/cdn/shop/files/Punk_Falling_-_Landing_Page_Promotion.png?v=1750894122&width=2048",
         link: "https://brewdog.com/products/dead-pony-club",
       },
     ],
@@ -163,7 +163,7 @@ const breweries = [
     name: "LZO Brewery",
     description: "LZO is an independently run craft brewery located in Conegliano, in the province of Treviso.",
     country: "Italy",
-    image: "https://www.lzo.beer/wp-content/uploads/2021/11/LZO-brewery.jpg",
+    image: "https://www.pintamedicea.com/birra/wp-content/uploads/2022/03/lzo-beer-03-800x445.jpg",
     link: "https://www.lzo.beer/",
     beers: [
       {

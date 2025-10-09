@@ -3,13 +3,14 @@
 </script>
 
 {#if brewery}
-    <div>
-        <a href="/breweries/{brewery.id}" class="flex flex-col gap-4 rounded-md relative overflow-hidden border border-zinc-800">
-            <img src={brewery.image} alt={brewery.name} class="h-60 object-cover">
-            <div class="absolute bottom-0 text-yellow-300 text-bold font-medium flex px-4 py-2 bg-black/60 w-full ">
 
-                <span>{brewery.name}</span>
+        <a href="/breweries/{brewery.id}" class="flex flex-col gap-4 rounded-md overflow-hidden  border border-zinc-800">
+            <img src={brewery.image} alt={brewery.name} class="h-96 object-cover">
+            <div class="flex flex-col gap-2 p-5">
+                <span class="text-2xl font-black">{brewery.name}</span>
+                <span class="text-sm text-zinc-400 text-justify">{brewery.description}</span>
+                <button class="btn gray self-end">Read More</button>
             </div>
         </a>
-    </div>
+
 {/if}

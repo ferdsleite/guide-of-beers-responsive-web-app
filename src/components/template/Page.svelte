@@ -1,7 +1,6 @@
 <script>
   import Footer from "./Footer.svelte";
   import Header from "./Header.svelte";
-  import Logo from "./Logo.svelte";
   import Sidebar from "./Sidebar.svelte";
 </script>
 
