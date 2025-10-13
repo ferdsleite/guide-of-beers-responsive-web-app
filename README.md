@@ -1,10 +1,4 @@
-# Guide of Beers
-
-![Tamanho do repositório](https://img.shields.io/github/repo-size/lelepg/altera-fundo?style=plastic&label=Tamanho&color=23FF00FF)
-![Quantidade de linhas do repositório](https://img.shields.io/tokei/lines/github/lelepg/altera-fundo?style=plastic&label=Total%20de%20linhas&color=23FF00FF)
-![Total de issues](https://img.shields.io/github/issues/lelepg/altera-fundo?style=plastic&color=23FF00FF)
-![Total de pull requests](https://img.shields.io/github/issues-pr/lelepg/altera-fundo?style=plastic&color=23FF00FF)
-![Licensa](https://img.shields.io/github/license/lelepg/altera-fundo?style=plastic&color=23FF00FF)
+# Guide of Beers 🍻
 
 <p align="center">
 <img src="" alt="screenshot" width="400px"></img>
@@ -26,8 +20,9 @@ Uma vez que a aplicação esteja rodando, você pode clicar nos círculos colori
 
 ## ⚙️ Tech Stack
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1)
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
 ## 🗒️ Features
 - 5 botões com cores diferentes que alteram a cor de fundo da página
@@ -63,4 +58,4 @@ You can get in touch with me on:
 
 
 -------
-<p align="center">Created cwithom 🪄 by Fernanda Leite</p>
+<p align="center">Created with 🪄 by Fernanda Leite</p>
