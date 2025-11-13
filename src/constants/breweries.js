@@ -26,6 +26,22 @@ const breweries = [
         image: "https://shop.guinness-storehouse.com/cdn/shop/files/Guinness_Pint_Glass_and_Can_Gift_Set.jpg?v=1731694599&width=1214",
         link: "https://www.guinness.com/en/beers/guinness-original",
       },
+      {
+        id: "guinness-extra-stout",
+        name: "Guinness Extra Stout",
+        style: beerStyles.find((s) => s.id === "stout"),
+        abv: "5.6%",
+        image: "https://shop.guinness-storehouse.com/cdn/shop/files/Guinness_Pint_Glass_and_Can_Gift_Set.jpg?v=1731694599&width=1214",
+        link: "https://www.guinness.com/en/beers/guinness-original",
+      },
+      {
+        id: "guinness-extra-stout",
+        name: "Guinness Extra Stout",
+        style: beerStyles.find((s) => s.id === "stout"),
+        abv: "5.6%",
+        image: "https://shop.guinness-storehouse.com/cdn/shop/files/Guinness_Pint_Glass_and_Can_Gift_Set.jpg?v=1731694599&width=1214",
+        link: "https://www.guinness.com/en/beers/guinness-original",
+      },
     ],
   },
   {

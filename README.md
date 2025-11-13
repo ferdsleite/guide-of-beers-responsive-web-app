@@ -1,5 +1,10 @@
 # Guide of Beers 🍻
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
 <p align="center">
 <img src="" alt="screenshot" width="400px"></img>
 <img src="" alt="web app working" width="400px"></img>
@@ -7,55 +12,83 @@
 
 link of video here
 
-## 🤔 What is the project about
-Este projeto é uma página feita com HTML, CSS e Javascript que contém uma série de botões coloridos para que a pessoa que está utilizando a aplicação possa alterar a cor de fundo da página.
+## Project Overview
+**Guide of Beers** is a modern and interactive web application designed for beer enthusiasts who want to explore detailed information about breweries, beer styles, and beer data.
+
+The project allows users to browse organized brewery lists, access full beer styles, and see some beers offered by each brewery.
+  
+It also provides a fast and efficient search experience, enabling users to quickly find specific information about breweries or beer styles.
+
+## 🤔 About the Project
+
+This project was developed as part of my ongoing journey transitioning into **front-end development** after several years working in the digital sector.  
+
+It was created as a deliverable for the **Formação.DEV**, where I’m currently studying full-time to deepen my technical skills and build a strong, practical portfolio.
+
+The main goal of this project was to apply and strengthen my knowledge of **React, SvelteKit, TailwindCSS**.  
+It represents my commitment to learning through hands-on experience and delivering clean, functional, and user-focused applications.
+
+With a background in **web development (WordPress), technical SEO, and digital project management**, I combine fresh technical skills with a solid understanding of how design, functionality, and performance work together in real-world web environments.
+
+**Key takeaways:**  
+- Applied modern front-end technologies in a real project context.  
+- Reinforced problem-solving and UI implementation skills.  
+- Continued building a portfolio that reflects both learning and technical evolution.
 
 ## 🖥️ How to run
-Para rodar o projeto basta dar dois cliques no arquivo *index.html* uma vez que a pasta do projeto esteja aberta no sistema de arquivos do seu sistema operacional.
+1. Clone the repository:  
+```bash
+git clone [repo URL]
+```
 
-Alternativamente você também pode utilizar a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) da IDE Visual Studio Code para rodar o projeto.
+2. Navigate to the project folder:
+```
+cd [project-name]
+```
+
+3. Install dependencies:
+```
+npm install
+```
+
+4. Run the project:
+```
+npm run dev
+```
 
 ## 🕹️ How to use the project
-Uma vez que a aplicação esteja rodando, você pode clicar nos círculos coloridos que são mostrados na página para alterar a cor de fundo da página. A cor será alterada de acordo com o botão que você pressionar.
+...
 
 ## ⚙️ Tech Stack
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1)
-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
+| Technology | Purpose | 
+| :--- | :--- | 
+| **Svelte** | UI Framework for front-end development | 
+| **TypeScript** | Type safety and improved developer experience. | 
+| **Tailwind CSS** | Utility-first CSS framework for rapid and responsive styling. | 
 
 ## 🗒️ Features
-- 5 botões com cores diferentes que alteram a cor de fundo da página
-- Subtítulo que é atualizado conforme a cor atual da página
+...
 
 ## 🗂️ Project Organization
-Na pasta raiz do projeto existem três arquivos de código:
-- index.html -> contém o html da aplicação
-- style.css -> contém os estilos da aplicação
-- script.js -> contém o código javascript da aplicação
+...
 
 ## 👩‍💻 How the project was implemented
-Este projeto foi implementado com HTML, CSS e JavaScript.
-
-No javascript os botões definidos no HTML são capturados através de um getElementsByTagName e é adicionado um event listener a cada um desses botões.
-
-Ao clicar em um botão, é disparado um evento que irá alterar a cor de fundo da página e o título de segunda importância será atualizado com o código da cor, que está armazenado em um array.
+...
 
 ## ⭐ Main Dependencies
-Não temos dependências no projeto.
+- [Tabler Icons Svelte](https://docs.tabler.io/icons/libraries/svelte)
+- [Marked](https://www.npmjs.com/package/marked-react)
 
 ## 💎 Links
-- [Paleta de cores](https://coolors.co/palette/d94e33-2c5697-ed9b33-8a9b8e-2d2926-f4e5de-dde5ed-f8f1e0-d7d2cb-dfdede)
-
-## 🤝 How to contribute with the project
-[Clique aqui](./CONTRIBUTING.md) para ver as diretrizes de contribuição.
+- [SvelteKit](https://svelte.dev/docs/kit/introduction)
 
 
-## 🆘 Need some help?
+## 🆘 Contact me
 You can get in touch with me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://br.linkedin.com)
 
 
 -------
-<p align="center">Created with 🪄 by Fernanda Leite</p>
+<p align="center">Created by Fernanda Leite with 🩶 and SvelteKit, showcasing a transition to modern web development.</p>

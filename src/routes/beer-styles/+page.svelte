@@ -6,7 +6,7 @@
 <div class="flex flex-col gap-5">
     <Title main="Beer Styles" subtitle="Beers of different styles from all around the world" />
     
-    <div class="grid lg:grid-cols-4 gap-3 sm:grid-cols-1">
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3">
     
         {#each beerStyles as beerStyle}
             <BeerStyleItem {beerStyle} />

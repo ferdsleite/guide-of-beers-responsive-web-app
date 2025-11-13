@@ -11,7 +11,7 @@
     <img src={brewery.image} alt="{brewery.name}" class="h-96 object-cover rounded-md" />
     <p class="text-zinc-400 text-lg text-justify">{brewery.description}</p>
     <h2 class="text-2xl font-bold text-zinc-300">List of Beers</h2>
-    <grid class="grid grid-cols-4 gap-3">
+    <grid class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3">
         {#each brewery.beers as beer }
             <BeerItem {beer} />
         {/each}
