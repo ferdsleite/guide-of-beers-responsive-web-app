@@ -64,18 +64,18 @@
 </aside>
 
 <!-- Tablet and Mobile Menu Icon -->
- <div class="flex md:hidden justify-end items-center mb-4">
+ <div class="flex md:hidden justify-end items-center mb-6">
     <button 
         type="button"
-        class="text-zinc-200"  
+        class="text-zinc-200 bg-zinc-900 p-1.5 rounded-md"  
         aria-expanded={isOpen} 
         aria-controls="mobile-sidebar" 
         on:click={toggle}
     >
         {#if !isOpen}
-            <IconMenu2 size={28}/>
+            <IconMenu2 size={26}/>
         {:else}
-            <IconX size={28} />
+            <IconX size={26} />
         {/if}
     </button>
  </div>
@@ -90,12 +90,12 @@
       class="absolute inset-0 bg-zinc-950/90 backdrop-blur-sm cursor-default"
       aria-label="Close menu"
       on:click={close}
-    />
+    ></button>
 
     <!-- Sidebar drawer -->
-    <aside
+    <div
         id="mobile-sidebar"
-        class="relative w-64 h-full bg-zinc-900 border-l border-zinc-800 p-5 flex flex-col gap-8 animate-slide-in"
+        class="relative w-64 h-full bg-zinc-900 border-l border-zinc-800 p-5 flex flex-col gap-8"
         on:click|stopPropagation
         aria-label="Mobile Sidebar"
     >
@@ -148,6 +148,6 @@
                     </MenuItem>
                 </Menu>
 
-</aside>
+            </div>
     </div>
   {/if}
