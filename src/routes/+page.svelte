@@ -4,8 +4,7 @@
 </script>
 
 <div class="flex flex-col gap-5">
-    {#each breweries as brewery}
-        <BreweryItem  brewery = { brewery } />
-    {/each}
+  {#each breweries as brewery}
+    <BreweryItem {brewery} />
+  {/each}
 </div>
-
