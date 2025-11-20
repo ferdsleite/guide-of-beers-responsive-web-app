@@ -13,7 +13,6 @@ The project allows users to:
 
 - Browse organized lists of breweries and individual beer styles.
 - Access full style descriptions and see beers offered by each brewery.
-- Utilize a fast and efficient search feature to quickly find specific information.
 
 Its primary value lies in delivering a clean, accessible, and highly usable interface across **desktop, tablet, and mobile devices**, ensuring a seamless browsing experience for all users.
 
@@ -49,7 +48,7 @@ With a background in **web development (WordPress), technical SEO, and digital p
 | **Framework**  | SvelteKit           | Used for application structure and component-based UI.        |
 | **Styling**    | Tailwind CSS        | Utility-first CSS framework for rapid and consistent styling. |
 | **Language**   | JavaScript/HTML/CSS | Core web technologies.                                        |
-| **Deployment** | Vercel              | Seamless, fast deployment platform.                           |
+| **Deployment** | Netlify             | Seamless, fast deployment platform.                           |
 
 ## 🖥️ How to Run Locally
 
@@ -90,8 +89,7 @@ The application will typically be available at `http://localhost:5173`.
 The application is straightforward to use:
 
 1.  **Browse:** Use the navigation menu (fixed sidebar on desktop, hamburger icon on mobile) to view the list of **Breweries** or **Styles**.
-2.  **Search:** Type keywords into the search bar to instantly filter the displayed lists.
-3.  **Explore:** Click on any item (brewery or style) to view its specific, detailed information.
+2.  **Explore:** Click on any item (brewery or style) to view its specific, detailed information.
 
 ## ⚙️ Tech Stack
 
@@ -114,8 +112,8 @@ _(Check the `package.json` file for the complete and up-to-date list.)_
 
 ## 🧑🏻‍💻 Preview
 
+- 🔗 **Live Demo**: [Guide of Beers - Project Deploy](https://guideofbeers.netlify.app/breweries)
 - 🔗 **GitHub Repo**: https://github.com/ferdsleite/guide-of-beers-responsive-web-app
-<!-- - 🔗 **Live Demo**: [Ordem dos Livros - Project Deploy](https://ordemdoslivros-project.netlify.app/) -->
 
 ## 🤗 Connect with me
 
