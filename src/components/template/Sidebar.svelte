@@ -73,7 +73,7 @@
   </Menu>
 </aside>
 
-<!-- Tablet and Mobile Menu Icon -->
+<!-- Mobile Menu Icon -->
 <div class="flex md:hidden justify-end items-center mb-6">
   <button
     type="button"
