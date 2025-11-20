@@ -5,11 +5,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-<!-- <p align="center">
-<img src="" alt="screenshot" width="400px"></img>
-<img src="" alt="web app working" width="400px"></img>
-</p> -->
-
 ## Project Overview
 
 **Guide of Beers** is a modern and responsive web application designed for beer enthusiasts who want to explore detailed information about breweries, beer styles, and beer data.
