@@ -112,7 +112,7 @@ _(Check the `package.json` file for the complete and up-to-date list.)_
 
 ## 🧑🏻‍💻 Preview
 
-- 🔗 **Live Demo**: [Guide of Beers - Project Deploy](https://guideofbeers.netlify.app/breweries)
+- 🔗 **Live Demo**: [Guide of Beers - Project Deploy](https://guideofbeers.netlify.app/)
 - 🔗 **GitHub Repo**: https://github.com/ferdsleite/guide-of-beers-responsive-web-app
 
 ## 🤗 Connect with me
