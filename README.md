@@ -5,10 +5,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-<p align="center">
+<!-- <p align="center">
 <img src="" alt="screenshot" width="400px"></img>
 <img src="" alt="web app working" width="400px"></img>
-</p>
+</p> -->
 
 ## Project Overview
 
@@ -81,6 +81,7 @@ npm run dev
 ## 🧑🏻‍💻 Preview
 
 - 🔗 **GitHub Repo**: https://github.com/ferdsleite/guide-of-beers-responsive-web-app
+<!-- - 🔗 **Live Demo**: [Ordem dos Livros - Project Deploy](https://ordemdoslivros-project.netlify.app/) -->
 
 ## 🤗 Connect with me
 
