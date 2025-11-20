@@ -10,8 +10,6 @@
 <img src="" alt="web app working" width="400px"></img>
 </p>
 
-link of video here
-
 ## Project Overview
 
 **Guide of Beers** is a modern and responsive web application designed for beer enthusiasts who want to explore detailed information about breweries, beer styles, and beer data.
@@ -63,10 +61,6 @@ npm install
 npm run dev
 ```
 
-## 🕹️ How to use the project
-
-...
-
 ## ⚙️ Tech Stack
 
 | Technology       | Purpose                                                       |
@@ -86,8 +80,7 @@ npm run dev
 
 ## 🧑🏻‍💻 Preview
 
-- 🔗 **Live Demo**: []()
-- 🔗 **GitHub Repo**: https://github.com/ferdsleite/projeto-ordem-dos-livros
+- 🔗 **GitHub Repo**: https://github.com/ferdsleite/guide-of-beers-responsive-web-app
 
 ## 🤗 Connect with me
 
