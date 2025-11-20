@@ -19,9 +19,3 @@
     </article>
   </div>
 {/if}
-
-<!-- 
-<p>ID: {beerStyle.id}</p>
-<p>Origin: {beerStyle.origin}</p>
-<a class="bg-yellow-400 p-3 mt-12" href="/">Back Home</a>
--->

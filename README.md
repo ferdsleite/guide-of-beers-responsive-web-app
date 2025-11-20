@@ -13,15 +13,16 @@
 link of video here
 
 ## Project Overview
-**Guide of Beers** is a modern and interactive web application designed for beer enthusiasts who want to explore detailed information about breweries, beer styles, and beer data.
+
+**Guide of Beers** is a modern and responsive web application designed for beer enthusiasts who want to explore detailed information about breweries, beer styles, and beer data.
 
 The project allows users to browse organized brewery lists, access full beer styles, and see some beers offered by each brewery.
-  
+
 It also provides a fast and efficient search experience, enabling users to quickly find specific information about breweries or beer styles.
 
 ## 🤔 About the Project
 
-This project was developed as part of my ongoing journey transitioning into **front-end development** after several years working in the digital sector.  
+This project was developed as part of my ongoing journey transitioning into **front-end development** after several years working in the digital sector.
 
 It was created as a deliverable for the **Formação.DEV**, where I’m currently studying full-time to deepen my technical skills and build a strong, practical portfolio.
 
@@ -30,65 +31,70 @@ It represents my commitment to learning through hands-on experience and deliveri
 
 With a background in **web development (WordPress), technical SEO, and digital project management**, I combine fresh technical skills with a solid understanding of how design, functionality, and performance work together in real-world web environments.
 
-**Key takeaways:**  
-- Applied modern front-end technologies in a real project context.  
-- Reinforced problem-solving and UI implementation skills.  
+**Key takeaways:**
+
+- Applied modern front-end technologies in a real project context.
+- Reinforced problem-solving and UI implementation skills.
 - Continued building a portfolio that reflects both learning and technical evolution.
 
 ## 🖥️ How to run
-1. Clone the repository:  
+
+1. Clone the repository:
+
 ```bash
 git clone [repo URL]
 ```
 
 2. Navigate to the project folder:
+
 ```
-cd [project-name]
+cd guide-of-beers
 ```
 
 3. Install dependencies:
+
 ```
 npm install
 ```
 
 4. Run the project:
+
 ```
 npm run dev
 ```
 
 ## 🕹️ How to use the project
+
 ...
 
 ## ⚙️ Tech Stack
 
-| Technology | Purpose | 
-| :--- | :--- | 
-| **Svelte** | UI Framework for front-end development | 
-| **TypeScript** | Type safety and improved developer experience. | 
-| **Tailwind CSS** | Utility-first CSS framework for rapid and responsive styling. | 
-
-## 🗒️ Features
-...
-
-## 🗂️ Project Organization
-...
-
-## 👩‍💻 How the project was implemented
-...
+| Technology       | Purpose                                                       |
+| :--------------- | :------------------------------------------------------------ |
+| **Svelte**       | UI Framework for front-end development                        |
+| **Tailwind CSS** | Utility-first CSS framework for rapid and responsive styling. |
 
 ## ⭐ Main Dependencies
-- [Tabler Icons Svelte](https://docs.tabler.io/icons/libraries/svelte)
+
+- [Tabler Icons](https://svelte.dev/docs/kit/introduction)
 - [Marked](https://www.npmjs.com/package/marked-react)
+- [TailwindCSS Typography](https://github.com/tailwindlabs/tailwindcss-typography)
 
-## 💎 Links
-- [SvelteKit](https://svelte.dev/docs/kit/introduction)
+## 💎 Helpful Links
 
+- [Svelte Documentation](https://svelte.dev/docs/kit/introduction)
 
-## 🆘 Contact me
+## 🧑🏻‍💻 Preview
+
+- 🔗 **Live Demo**: []()
+- 🔗 **GitHub Repo**: https://github.com/ferdsleite/projeto-ordem-dos-livros
+
+## 🤗 Connect with me
+
 You can get in touch with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://br.linkedin.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandaleitedepaula)
 
+---
 
--------
-<p align="center">Created by Fernanda Leite with 🩶 and SvelteKit, showcasing a transition to modern web development.</p>
+<p align="center">Created by Fernanda Leite with 🩶 and Svelte, showcasing a transition to modern web development.</p>
